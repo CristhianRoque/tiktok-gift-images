@@ -1,5 +1,31 @@
 {
   "version": "1.0",
   "base_url": "https://raw.githubusercontent.com/CristhianRoque/tiktok-gift-images/main/images/",
-  "images": []
+  "images": [
+    {
+      "id": "tnt",
+      "name": "TNT",
+      "filename": "1699518941076_tnt.png"
+    },
+    {
+      "id": "zombie_netherite",
+      "name": "Zombie Netherite",
+      "filename": "1725541632059_Zombie_in_netherite_armor.png"
+    },
+    {
+      "id": "mutant_zombie",
+      "name": "Mutant Zombie",
+      "filename": "1732893505344_Mutant_zombie.png"
+    },
+    {
+      "id": "creeper",
+      "name": "Creeper",
+      "filename": "1699518671057_creeper.png"
+    },
+    {
+      "id": "tnt_2x2",
+      "name": "TNT 2x2",
+      "filename": "1699702595685_tnt-2x2.png"
+    }
+  ]
 }
